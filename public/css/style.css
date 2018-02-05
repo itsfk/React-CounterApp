@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color:  #900C3F;    
+}
+button {
+    background-color:   #C70039 ;
+    width: 100px;
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    border-radius: 6px;
+}
+.button1{
+    background-color:  #d7b107;
+    width: 100px;
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    border-radius: 6px;
+}
+h2{
+    color: white;
+}
